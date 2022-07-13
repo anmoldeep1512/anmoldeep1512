@@ -1,5 +1,6 @@
 
 
+
 <!---
 anmol1512-deloitte/anmol1512-deloitte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -29,8 +30,16 @@ Talk to me about:
 - 💞️ I’m currently learning React and Spring Boot.
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmoldeep1512&hide=["issues"]&show_icons=true)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anmoldeep1512&theme=tokyonight&hide_langs_below=4' />
+[![trophy](https://github-profile-trophy.vercel.app/?username=anmoldeep1512&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anmoldeep1512&theme=dark)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=anmoldeep1512&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anmoldeep1512.anmoldeep1512)
+
+
 
 
 
