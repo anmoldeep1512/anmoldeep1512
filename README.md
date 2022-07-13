@@ -3,6 +3,7 @@
 - 🌱 I'm working as Software Engineer
 - 💞️ I’m currently learning React and Spring Boot.
 - 📫 How to reach me: anmoldeep1512@gmail.com 
+- ✨ Portfolio: https://anmoldeep1512.github.io/portfolio
 
 <!---
 anmol1512-deloitte/anmol1512-deloitte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
