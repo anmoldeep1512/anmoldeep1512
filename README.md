@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@_Anmol313-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Anmol313)](https://twitter.com/_Anmol313)
 [![Linkedin Badge](https://img.shields.io/badge/-anmoldeep_kaur1512-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-kaur1512/)](https://www.linkedin.com/in/anmoldeep-kaur1512/)
