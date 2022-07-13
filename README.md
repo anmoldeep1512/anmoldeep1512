@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 <img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@_Anmol313-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Anmol313)](https://twitter.com/_Anmol313)
-[![Linkedin Badge](https://img.shields.io/badge/-anmoldeep_kaur1512-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-kaur1512/)](https://www.linkedin.com/in/anmoldeep-kaur1512/)
-[![Gmail Badge](https://img.shields.io/badge/-anmoldeep1512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anmoldeep1512@gmail.com)](mailto:anmoldeep1512@gmail.com)  <img src="https://komarev.com/ghpvc/?username=anmoldeep1512" alt="anmoldeep1512" /> 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Anmol313)](https://twitter.com/_Anmol313)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-kaur1512/)](https://www.linkedin.com/in/anmoldeep-kaur1512/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anmoldeep1512@gmail.com)](mailto:anmoldeep1512@gmail.com)  <img src="https://komarev.com/ghpvc/?username=anmoldeep1512" alt="anmoldeep1512" /> 
 
 I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn about new things.
 
