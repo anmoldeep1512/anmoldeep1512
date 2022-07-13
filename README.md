@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Twitter Badge](https://img.shields.io/badge/-@_Anmol313-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Anmol313)](https://twitter.com/_Anmol313)
 [![Linkedin Badge](https://img.shields.io/badge/-anmoldeep_kaur1512-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-kaur1512/)](https://www.linkedin.com/in/anmoldeep-kaur1512/)
-[![Gmail Badge](https://img.shields.io/badge/-anmoldeep1512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anmoldeep1512@gmail.com)](mailto:anmoldeep1512@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-anmoldeep1512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anmoldeep1512@gmail.com)](mailto:anmoldeep1512@gmail.com)  <img src="https://komarev.com/ghpvc/?username=anmoldeep1512" alt="anmoldeep1512" /> 
 
 I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn about new things.
 
@@ -58,7 +58,6 @@ Talk to me about:
 
  
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoldeep1512" alt="anmoldeep1512" /> </p>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fanmoldeep1512%2Fanmoldeep1512%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanmoldeep1512%2Fanmoldeep1512%2F&countColor=%23f47373" /></a>
 
