@@ -33,9 +33,10 @@ Talk to me about:
 <br><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anmoldeep1512&theme=tokyonight&hide_langs_below=4' />
 [![trophy](https://github-profile-trophy.vercel.app/?username=anmoldeep1512&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anmoldeep1512&theme=dark)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=anmoldeep1512&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anmoldeep1512&theme=dark)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anmoldeep1512.anmoldeep1512)
 
