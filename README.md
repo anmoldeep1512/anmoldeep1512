@@ -9,7 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@_Anmol313-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Anmol313)](https://twitter.com/_Anmol313) [![Linkedin Badge](https://img.shields.io/badge/-anmoldeep-kaur1512-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-kaur1512/)](https://www.linkedin.com/in/anmoldeep-kaur1512/)
+[![Twitter Badge](https://img.shields.io/badge/-@_Anmol313-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Anmol313)](https://twitter.com/_Anmol313)
+[![Linkedin Badge](https://img.shields.io/badge/-anmoldeepkaur1512-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-kaur1512/)](https://www.linkedin.com/in/anmoldeep-kaur1512/)
 [![Gmail Badge](https://img.shields.io/badge/-anmoldeep1512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anmoldeep1512@gmail.com)](mailto:anmoldeep1512@gmail.com)
 
 I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn about new things.
@@ -19,7 +20,6 @@ I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn a
 Talk to me about:
 - Front-end development using **ReactJS, HTML, Javascript, CSS, Bootstrap, Material UI**.
 - Backend development using **Spring Boot, MySQL**.
-- Making for **Relational Database Management Systems**.
 - Solving Data structure and algorithm questions in **Python**.
 ## Hello World!! 👋
 - 💬 Ask me about anything an everything.
@@ -31,3 +31,7 @@ Talk to me about:
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=anmoldeep1512&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anmoldeep1512.anmoldeep1512)
+
+
+
+
