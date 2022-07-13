@@ -56,9 +56,10 @@ Talk to me about:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anmoldeep1512&theme=dark)
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoldeep1512" alt="anmoldeep1512" /> </p>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anmoldeep1512.anmoldeep1512)
+ 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmoldeep1512" alt="anmoldeep1512" /> </p>
 
 
 
