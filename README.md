@@ -13,13 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Gmail Badge](https://img.shields.io/badge/-anmoldeep1512@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anmoldeep1512@gmail.com)](mailto:anmoldeep1512@gmail.com)
 
 I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn about new things.
-## 👩‍💻 Work experience
-* Software Engineer Associate - HashedIn by Deloitte
-## ⚡ Technologies
-Talk to me about:
-- Front-end development using **ReactJS, HTML, Javascript, CSS, Bootstrap, Material UI**.
-- Backend development using **Spring Boot, MySQL**.
-- Solving Data structure and algorithm questions in **Python**.
+
 ## Hello World!! 👋
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio]( https://anmoldeep1512.github.io/portfolio).
@@ -27,7 +21,16 @@ Talk to me about:
 - 🌱 I'm working as Software Engineer
 - 💞️ I’m currently learning React and Spring Boot.
 
-### 📢 Find me elsewhere
+## 👩‍💻 Work experience
+* Software Engineer Associate - HashedIn by Deloitte
+
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **ReactJS, HTML, Javascript, CSS, Bootstrap, Material UI**.
+- Backend development using **Spring Boot, MySQL**.
+- Solving Data structure and algorithm questions in **Python**.
+
+## 📢 Find me elsewhere
 <p align="left">
   <a href="https://www.codechef.com/users/anmol1512">
     <img src="https://raw.githubusercontent.com/anmoldeep1512/anmoldeep1512/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
