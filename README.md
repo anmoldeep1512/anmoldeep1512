@@ -19,10 +19,10 @@ I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn a
 - 🎯 Portfolio site: [Portfolio]( https://portfolio-60c49.web.app/).
 - 👀 I’m interested in development. 
 - 🌱 I'm working as Software Engineer
-- 💞️ I’m currently learning React and Spring Boot.
+- 💞️ I’m currently learning React, Spring Boot and Python.
 
 ## 👩‍💻 Work experience
-* Software Engineer Associate - HashedIn by Deloitte
+* Software Engineer - HashedIn by Deloitte
 
 ## ⚡ Technologies
 Talk to me about:
