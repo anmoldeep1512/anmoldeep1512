@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmoldeep-kaur1512/)](https://www.linkedin.com/in/anmoldeep-kaur1512/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anmoldeep1512@gmail.com)](mailto:anmoldeep1512@gmail.com)  <img src="https://komarev.com/ghpvc/?username=anmoldeep1512" alt="anmoldeep1512" /> 
 
-I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn about new things.
+I am Anmoldeep Kaur 👀. I am from India. I love to explore and learn about new things.
 
 ## Hello World!! 👋
 - 💬 Ask me about anything an everything.
@@ -27,7 +27,7 @@ I am Anmoldeep Kaur 👀. I am from Punjab, India. I love to explore and learn a
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **ReactJS, HTML, Javascript, CSS, Bootstrap, Material UI**.
-- Backend development using **Spring Boot, MySQL**.
+- Backend development using **Spring Boot, MySQL, Flask, Python and Postgres**.
 - Solving Data structure and algorithm questions in **Python**.
 
 ## 📢 Find me elsewhere
