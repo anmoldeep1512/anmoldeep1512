@@ -18,16 +18,16 @@ I am Anmoldeep Kaur 👀. I am from India. I love to explore and learn about new
 - 💬 Ask me about anything an everything.
 - 🎯 Portfolio site: [Portfolio]( https://portfolio-60c49.web.app/).
 - 👀 I’m interested in development. 
-- 🌱 I'm working as Software Engineer
-- 💞️ I’m currently learning React, Spring Boot and Python.
+- 🌱 I'm working as Software Engineer - 2. 
+- 💞️ I’m currently learning System Design.
 
 ## 👩‍💻 Work experience
 * Software Engineer - HashedIn by Deloitte
 
 ## ⚡ Technologies
 Talk to me about:
+- Backend development using **Django, Spring Boot, MySQL, Flask, Python and PostgreSQL**.
 - Front-end development using **ReactJS, HTML, Javascript, CSS, Bootstrap, Material UI**.
-- Backend development using **Spring Boot, MySQL, Flask, Python and Postgres**.
 - Solving Data structure and algorithm questions in **Python**.
 
 ## 📢 Find me elsewhere
